@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large dataset archives & unzipped audio folders
+Dataset_Final/train/
+Dataset_Final/test/
+*.zip
+*.wav
+
+# Temp scratch files
+scratch_*.py
+build_*.py
+execute_notebook.py
